@@ -1,0 +1,4 @@
+interface:
+  display_name: "What's New, Again"
+  short_description: "给修复问题和体验优化的维护版本写英文短文案，记住旧稿，每次换个说法"
+  default_prompt: "用 $whats-new-again 写一条英文更新文案，还是修 bug 和体验优化。"
