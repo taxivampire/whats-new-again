@@ -21,7 +21,7 @@ These three drafts came from the same project with the same brief: bug fixes and
 You’ll need Node.js for the installer and Python 3 for local draft history. From the project where you write release notes, install the skill for Codex:
 
 ```sh
-npx skills add Rip-Busy/whats-new-again --skill whats-new-again --agent codex
+npx skills add taxivampire/whats-new-again --skill whats-new-again --agent codex
 ```
 
 Open a new Codex chat in that project and enter:

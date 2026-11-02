@@ -15,7 +15,7 @@
 安装命令需要 Node.js，本地草稿历史需要 Python 3。在你写发版说明的项目目录里安装：
 
 ```sh
-npx skills add Rip-Busy/whats-new-again --skill whats-new-again --agent codex
+npx skills add taxivampire/whats-new-again --skill whats-new-again --agent codex
 ```
 
 在同一项目打开新的 Codex 聊天，输入：
